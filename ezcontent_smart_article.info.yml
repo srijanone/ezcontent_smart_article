@@ -1,0 +1,9 @@
+name: Smart Article Feature
+type: module
+description: 'Provides Features for the Smart article content type.'
+package: EZContent Node
+core_version_requirement: ^10
+configure: ezcontent_smart_article.config
+dependencies:
+  - ezcontent:ezcontent_node
+

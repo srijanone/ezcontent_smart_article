@@ -1,0 +1,8 @@
+{
+  "name": "srijanone/ezcontent_smart_article",
+  "description": "Provides Features for the Smart article content type.",
+  "type": "drupal-module",
+  "require": {
+    "srijanone/ezcontent_node": "^1.0.1"
+  }
+}
